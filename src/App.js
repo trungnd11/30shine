@@ -113,6 +113,7 @@ function App() {
       <Routes>
         <Route path="" element={<Home />} />
         <Route path="/" element={<Home />} />
+        <Route path="/30shine" element={<Home />} />
         <Route path="/copy30shine" element={<Home />} />
         <Route path="/trai-nghiem-dich-vu" element={<Experience />} />
         <Route path="/hanh-trinh-toa-sang" element={<Shine />} />
